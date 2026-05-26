@@ -1,6 +1,6 @@
 {
     "name": "dagasmart/nestedset",
-    "description": "Nested Set Model for Laravel 5.7 and up",
+    "description": "Nested Set Model for Laravel 13 and up",
     "keywords": [
         "laravel",
         "nested sets",
