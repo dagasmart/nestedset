@@ -1,6 +1,6 @@
 <?php
 
-namespace Kalnoy\Nestedset;
+namespace DagaSmart\Nestedset;
 
 use Illuminate\Database\Eloquent\Model;
 
